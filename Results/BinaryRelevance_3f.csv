@@ -1,0 +1,4 @@
+,Model Name,Time Spent (s),Hamming Loss,Subset Accuracy,Jaccard Similarity,Precision,Recall,F1 Score,Micro Precision,Micro Recall,Micro F1 Score,Macro Precision,Macro Recall,Macro F1 Score,Weighted Precision,Weighted Recall,Weighted F1 Score
+0,MultinomialNB,3.042863,0.0071,0.1848,0.2485,0.3599,0.2709,0.2903,0.7693,0.2598,0.3884,0.3058,0.0606,0.0884,0.5981,0.2598,0.332
+1,"LogisticRegression: l2, sgd",31.729389,0.0057,0.2969,0.4258,0.5707,0.4632,0.485,0.8037,0.4534,0.5797,0.6636,0.3019,0.3967,0.751,0.4534,0.5524
+2,"LinearSVC: l2, sgd",28.757106,0.0058,0.2994,0.4599,0.6005,0.5194,0.527,0.7396,0.5077,0.6021,0.617,0.379,0.4567,0.6965,0.5077,0.579
